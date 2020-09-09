@@ -1,0 +1,13 @@
+{
+  "name": "vue-template",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "vuex": "3.0.1",
+    "vue-router": "3.0.1",
+    "vue": "2.5.2",
+    "axios": "0.17.1"
+  }
+}
